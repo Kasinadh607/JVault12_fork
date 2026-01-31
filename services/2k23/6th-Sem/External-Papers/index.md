@@ -5,7 +5,7 @@ nav_exclude: true
 
 ---
 
- ### 🏡 Home
+### 🏡 Home
 
 ---
 - [Cryptography and Network Security](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/6th-Sem/External-Papers/CryptographyAndNetworkSecurity.jpg)

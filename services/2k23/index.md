@@ -4,7 +4,7 @@ title: Services
 nav_exclude: true
 ---
 
- ### 🏡 Home
+### 🏡 Home
 
 ---
 - [1st-Sem](1st-Sem/index.md)
